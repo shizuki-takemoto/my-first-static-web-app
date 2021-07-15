@@ -1,12 +1,28 @@
 {
-    "url": "http://localhost:87/sample1.html"
+    "items":[
+        "url":"http://localhost/test/sample1.html",
+        "publishDate":"20210101",
+        "likeCount":100
+        ]
 },
 {
-    "url": "http://localhost:87/sample2.html"
+    "items":[
+        "url":"http://localhost/test/sample2.html",
+        "publishDate":"20210101",
+        "likeCount":100
+        ]
 },
 {
-    "url": "http://localhost:87/sample3.html"
+    "items":[
+        "url":"http://localhost/test/sample3.html",
+        "publishDate":"20210101",
+        "likeCount":100
+        ]
 },
 {
-    "url": "http://localhost:87/sample4.html"
+    "items":[
+        "url":"http://localhost/test/sample4.html",
+        "publishDate":"20210101",
+        "likeCount":100
+        ]
 }
