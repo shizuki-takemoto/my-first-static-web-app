@@ -1,28 +1,24 @@
 {
     "items":[
+        {
         "url":"http://localhost/test/sample1.html",
         "publishDate":"20210101",
         "likeCount":100
-        ]
-},
-{
-    "items":[
+        },
+        {
         "url":"http://localhost/test/sample2.html",
         "publishDate":"20210101",
         "likeCount":100
-        ]
-},
-{
-    "items":[
+        },
+        {
         "url":"http://localhost/test/sample3.html",
         "publishDate":"20210101",
         "likeCount":100
-        ]
-},
-{
-    "items":[
+        },
+        {
         "url":"http://localhost/test/sample4.html",
         "publishDate":"20210101",
         "likeCount":100
+        }
         ]
 }
